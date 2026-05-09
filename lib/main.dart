@@ -97,7 +97,7 @@ class _BmiState extends State<Bmi> {
                         filled: true,
                         fillColor: Colors.white.withValues(
                           alpha: 0.1,
-                        ), // ✅ fixed
+                        ), // fixed
                         border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(30),
                           borderSide: BorderSide.none,
@@ -121,14 +121,14 @@ class _BmiState extends State<Bmi> {
                     ),
                     const SizedBox(height: 16),
                     TextFormField(
-                      controller: _controller2, // ✅ controller added
+                      controller: _controller2, // controller added
                       keyboardType: TextInputType.number,
                       style: const TextStyle(color: Colors.white),
                       decoration: InputDecoration(
                         filled: true,
                         fillColor: Colors.white.withValues(
                           alpha: 0.1,
-                        ), // ✅ fixed
+                        ), // fixed
                         border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(30),
                           borderSide: BorderSide.none,
