@@ -1,56 +1,124 @@
-# Flutter Calculator App
+# 🧮 Modern Calculator App
 
-A simple and modern Calculator mobile application built using Flutter and Dart.
+### A Sleek Flutter Arithmetic Tool with Glassmorphism UI & Smooth Experience
 
-## Features
+A high-performance, aesthetically pleasing calculator developed using **Flutter** and **Dart**.
 
-- Addition operation
-- Subtraction operation
-- Multiplication operation
-- Division operation
-- Modern dark UI design
-- Responsive layout
-- Input validation using `double.tryParse()`
-- Interactive buttons with FloatingActionButton
+This app features a deep-navy and purple gradient aesthetic with professional arithmetic logic.
 
-## Technologies Used
+---
 
-- Flutter
-- Dart
-- Material Design
+# ✨ Features
 
-## Screens
+✅ **Instant Arithmetic**: Real-time Addition, Subtraction, Multiplication, and Division.
 
-### Calculator Screen
-- Enter first number
-- Enter second number
-- Perform calculations
-- Display result instantly
+✅ **Modern UI**: Stylish "Glassmorphism" effect with vibrant gradients.
 
-## Operations Supported
+✅ **Error Prevention**: Built-in logic to handle division by zero and invalid inputs.
 
-- Addition (+)
-- Subtraction (-)
-- Multiplication (*)
-- Division (/)
+✅ **Optimized Navigation**: Single-screen utility with interactive Material 3 buttons.
 
-## What I Learned
+✅ **Responsive Layout**: Perfectly centered container that scales across all mobile devices.
 
-- StatefulWidget
-- setState()
-- TextEditingController
-- TextFormField
-- Handling user input
-- UI Design in Flutter
-- FloatingActionButton
-- Parsing numbers using `double.tryParse()`
+✅ **Professional Code**: Clean architecture using `StatefulWidget` and `TextEditingController`.
 
-## Getting Started
+---
 
-1. Install Flutter
-2. Download or clone the project
-3. Run the following commands:
+# 📸 Application Preview
+
+## 🖥️ Main Interface
+
+## 📊 Modern Input & Results
+
+> Featuring custom `TextFormField` styling and interactive `FloatingActionButton` controls.
+
+---
+
+# 🛠️ Technologies Used
+
+| Technology | Purpose |
+| --- | --- |
+| Flutter | Cross-platform UI Development |
+| Dart | Backend Logic & State Management |
+| Material 3 | Modern UI Components & Icons |
+| Linear Gradients | Professional Visual Styling |
+
+---
+
+# 📂 Project Structure
+
+```bash
+lib/
+│
+└── main.dart # Contains main app entry, logic, and UI widgets
+
+```
+
+---
+
+# 🚀 Getting Started
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/georgemedhat/flutter-calculator.git
+
+```
+
+---
+
+## 2️⃣ Navigate to Project
+
+```bash
+cd flutter-calculator
+
+```
+
+---
+
+## 3️⃣ Install Dependencies
 
 ```bash
 flutter pub get
+
+```
+
+---
+
+## 4️⃣ Run Application
+
+```bash
 flutter run
+
+```
+
+---
+
+# 🎨 UI Highlights
+
+### The application focuses on:
+
+* **Deep Aesthetic**: Deep-navy (`0xFF1A1A2E`) background with purple accents.
+* **Visual Feedback**: Hover effects and active state changes on arithmetic buttons.
+* **Clean Typography**: High-contrast white and white70 text for maximum readability.
+* **Geometric Design**: Consistent use of `BorderRadius.circular(30)` for a friendly feel.
+
+---
+
+# 👨‍💻 Developer
+
+## George Medhat
+
+### App Developer Level 2 | Mobile Application Enthusiast
+
+---
+
+# ⭐ Support The Project
+
+If you found this project useful for your Flutter journey, consider giving it a ⭐ on GitHub.
+
+Your support helps motivate more open-source contributions!
+
+---
+
+### Built with ❤️ using Flutter
