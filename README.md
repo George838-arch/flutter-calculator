@@ -25,12 +25,7 @@ This app features a deep-navy and purple gradient aesthetic with professional ar
 ---
 
 # 📸 Application Preview
-
-## 🖥️ Main Interface
-
-## 📊 Modern Input & Results
-
-> Featuring custom `TextFormField` styling and interactive `FloatingActionButton` controls.
+<img width="326" height="731" alt="calculator_screen png" src="https://github.com/user-attachments/assets/06266cb2-1269-4dab-9d0a-a1b28f3fd65f" />
 
 ---
 
